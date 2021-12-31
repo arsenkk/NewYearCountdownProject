@@ -1,4 +1,4 @@
-const newYear = new Date('Feb 24, 2022 19:59:10').getTime();
+const newYear = new Date('Jan 1, 2022 00:00:00').getTime();
 
 var countdownInterval = setInterval(() => {
     countdownFunction();
